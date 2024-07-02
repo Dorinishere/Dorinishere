@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorinishere&label=Profile%20views&color=0e75b6&style=flat" alt="dorinishere" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dorinjames" target="blank"><img src="https://img.shields.io/twitter/follow/dorinjames?logo=twitter&style=for-the-badge" alt="dorinjames" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **dorinjames007@gmail.com**
@@ -16,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dorin-bamniya-94170620a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dorin-bamniya-94170620a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dorin-bamniya-94170620a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dorin-bamniya-94170620a" height="30" width="40" /></a>
 <a href="https://instagram.com/jeanniee028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeanniee028" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dorinbamniya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dorinbamniya" height="30" width="40" /></a>
 </p>
