@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dorin Bamniya</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <img align ="right" ali="coding" width ="400" src = "https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif" >
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dorinjames007@gmail.com**
 
-- ⚡ Fun fact **I Think I am very Innocent**
+- ⚡ Fun fact **I don't have any interest in sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
