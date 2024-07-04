@@ -3,8 +3,6 @@
 
 <img align ="right" ali="coding" width ="400" src = "https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorinishere&label=Profile%20views&color=0e75b6&style=flat" alt="dorinishere" /> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **dorinjames007@gmail.com**
